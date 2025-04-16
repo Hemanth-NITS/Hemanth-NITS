@@ -6,10 +6,12 @@ Here are a few details about me:
 - Currently pursuing B.Tech in CSE , NIT Silchar.
 - Email: hemanthsaikumar2004@gmail.com
 - Skills: 
-  - Languages: C, C++, Javascript
-  - Frameworks/Technologies: React.js, Next.js, Tailwind CSS
-  - Tools/Databases:  Git, Vite, MySQL
+  - Languages: C, C++, Python, Javascript, SQL, HTML, CSS
+  - Frameworks/Libraries: React.js, Next.js, Tailwind CSS, Express.js
+  - Databases/Backend:  PostgreSQL, MySQL, Supabase
+  - Tools/Platforms: SEO, Git, GitHub, Redux Toolkit, Postman, Linux
   - Course Work: Data Structure and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+  - Soft Skills: Leadership, Event Management, Time Management, Public Speaking
 
 ### 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-sai-kumar-knv-a62101258/)
