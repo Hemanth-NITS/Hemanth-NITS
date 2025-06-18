@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Hemanth.<img align="right" src="https://komarev.com/ghpvc/?username=Hemanth-NITS" alt="Hemanth-NITS" />
+I'm K N V HEMANTH SAI KUMAR.<img align="right" src="https://komarev.com/ghpvc/?username=Hemanth-NITS" alt="Hemanth-NITS" />
 
 Here are a few details about me:
 - Currently pursuing B.Tech in CSE , NIT Silchar.
