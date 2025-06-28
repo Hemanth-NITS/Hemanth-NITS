@@ -8,7 +8,7 @@ Here are a few details about me:
 - Skills: 
   - Languages: C, C++, Python, Javascript, SQL, HTML, CSS
   - Frameworks/Libraries: React.js, Next.js, Tailwind CSS, Express.js
-  - Databases/Backend:  PostgreSQL, MySQL, Supabase
+  - Databases/Backend:  PostgreSQL, Supabase
   - Tools/Platforms: SEO, Git, GitHub, Redux Toolkit, Postman, Linux
   - Course Work: Data Structure and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
   - Soft Skills: Leadership, Event Management, Time Management, Public Speaking
